@@ -35,3 +35,5 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J0A0F3L1P3&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+
+![](https://github.com/J0A0F3L1P3/J0A0F3L1P3/blob/master/generated/languages.svg)

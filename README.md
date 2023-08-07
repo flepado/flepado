@@ -28,10 +28,10 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 
 ## github Status:
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0F3L1P3&layout=compact&langs_count=6&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J0A0F3L1P3&hide=Html&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flepado&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flepado&layout=compact&langs_count=6&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flepado&hide=Html&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J0A0F3L1P3&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flepado&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=flepado&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0F3L1P3&layout=compact&langs_count=6&theme=nord_dark -->
